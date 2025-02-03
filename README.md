@@ -1,4 +1,4 @@
-# Python-Aufgabe-Buecherei
+# Python-exercise-task-library
 My first repository on git
 
 Hello World! This is my first repository on git. To get going I chose a exercise task I worked on during my first training at continental.
