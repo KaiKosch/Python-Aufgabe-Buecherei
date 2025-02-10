@@ -6,10 +6,13 @@ if __name__ == "__main__":
 
     library0.addBook(Book("Harry Potter", "J.K.Rowling", 1234))
     library0.addBook(Book("Tintenherz", "Cornelia Funke", 5678))
+    library0.addBook(Book("Der Heimweg", "Sebastian Fitzek", 6666))
+    library0.addBook(Book("1984", "George Orwell", 9999))
+    library0.addBook(Book("ES", "Steven King", 3333))
     print(library0.showBooks())
 
     library0.addMember(Member("Annau, Philipp", "PA@conti.de", 1))
-    library0.addMember(Member("Kosch, Kai", "kai.ko@mail.de", 2))
+    library0.addMember(Member("Kosch, Kai", "kai@mail.de", 2))
     library0.addMember(Member("Tastemir, Celil", "Celil@conti.com", 3))
     print(library0.showMembers())
 
